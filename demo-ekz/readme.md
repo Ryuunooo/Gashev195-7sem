@@ -19,3 +19,5 @@ Use Case Diagram
 Зачем?
 Показывает, кто пользуетя системой - Люди = актеры. Пользователи, администраторы
 Действия = прецеденты
+
+(https://github.com/Ryuunooo/Gashev195-7sem/blob/main/demo-ekz/usecase.png)
